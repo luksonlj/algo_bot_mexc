@@ -1,6 +1,6 @@
-ccxt>=4.2.0
-websockets>=12.0
-pydantic>=2.7
-python-dotenv>=1.0
-requests>=2.32
-loguru>=0.7
+ccxt
+pandas
+numpy
+loguru
+python-dotenv
+requests
